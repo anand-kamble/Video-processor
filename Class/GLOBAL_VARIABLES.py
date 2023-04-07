@@ -2,8 +2,8 @@ from .Logger import Logger
 from collections.abc import Callable
 
 
-class VIDEO_PROCESSOR_CONSTANTS_CLASS:
-    def __init__(self) -> None:
+class VIDEO_PROCESSOR_GLOBAL_VARIABLES_CLASS:
+    def __init__(self):
         self.Logger = Logger("VIDEO_PROCESSOR_CONSTANTS")
         self.values = {
             # "VIDEO_PATH": {
@@ -16,7 +16,7 @@ class VIDEO_PROCESSOR_CONSTANTS_CLASS:
         }
         pass
 
-    def create(self, property, value) -> None:
+    def create(self, property, value):
         self.values[property] = {"value": value, "listeners": [{
             "id": "",
             "cb": None

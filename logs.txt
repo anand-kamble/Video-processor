@@ -1,0 +1,24 @@
+07/04/2023 22:56:40 
+	[LOG] @[VIDEO_SUBTITLE_MAKER] : Initialized
+07/04/2023 22:57:21 
+	[LOG] @[VIDEO_SUBTITLE_MAKER] : Initialized
+07/04/2023 22:57:22 
+	[LOG] @[VIDEO_SUBTITLE_MAKER] : Initialized
+07/04/2023 22:59:38 
+	[LOG] @[VIDEO_SUBTITLE_MAKER] : Initialized
+07/04/2023 22:59:40 
+	[LOG] @[VIDEO_SUBTITLE_MAKER] : Instance destoyed.
+07/04/2023 22:59:40 
+	[LOG] @[VIDEO_SUBTITLE_MAKER] : Initialized
+07/04/2023 23:02:58 
+	[LOG] @[VIDEO_SUBTITLE_MAKER] : Initialized
+07/04/2023 23:03:31 
+	[LOG] @[VIDEO_SUBTITLE_MAKER] : Initialized
+07/04/2023 23:03:45 
+	[LOG] @[VIDEO_SUBTITLE_MAKER] : Initialized
+07/04/2023 23:03:50 
+	[LOG] @[VIDEO_SUBTITLE_MAKER] : Initialized
+07/04/2023 23:04:18 
+	[LOG] @[VIDEO_SUBTITLE_MAKER] : Initialized
+07/04/2023 23:04:26 
+	[LOG] @[VIDEO_SUBTITLE_MAKER] : Video Path added'C:/Users/91911/Documents/JDownloader/Miley Cyrus - Flowers (Official Video) (1406p_24fps_AV1-128kbit_AAC).mp4'
