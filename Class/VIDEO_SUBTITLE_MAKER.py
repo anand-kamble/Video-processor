@@ -60,7 +60,10 @@ class VIDEO_SUBTITLE_MAKER:
         del self
 
     def __create_temp_dir(self):
-        makedirs(getcwd() + "/temp")
+        makedirs(getcwd() + "/"+TEMP_DIR_NAME)
 
     def __remove_temp_dir(self):
-        rmtree(getcwd() + "/temp")
+        try:
+            rmtree(getcwd() + "/"+TEMP_DIR_NAME)
+        except:
+            return None

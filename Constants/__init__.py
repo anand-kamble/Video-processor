@@ -1,3 +1,4 @@
 VIDEO_PATH_KEY = "VIDEO_PATH"
 TEMP_DIR_NAME = "temp"
 TEMP_AUDIO_FILE_NAME = "audio.mp3"
+LOG_FILE_NAME = "logs.txt"

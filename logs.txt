@@ -141,3 +141,125 @@ LOLLL
 07/04/2023 23:47:45 
 	[ERROR] @[VIDEO_SUBTITLE_MAKER] : Failed to prepare
 	LOLLL
+07/04/2023 23:51:06 
+	[LOG] @[VIDEO_SUBTITLE_MAKER] : Initialized
+07/04/2023 23:51:18 
+	[LOG] @[VIDEO_SUBTITLE_MAKER] : Video Path added'C:/Users/91911/Documents/JDownloader/Miley Cyrus - Flowers (Official Video) (1406p_24fps_AV1-128kbit_AAC).mp4'
+07/04/2023 23:56:13 
+	[LOG] @[VIDEO_SUBTITLE_MAKER] : Initialized
+07/04/2023 23:57:49 
+	[LOG] @[VIDEO_SUBTITLE_MAKER] : Initialized
+07/04/2023 23:58:29 
+	[LOG] @[VIDEO_SUBTITLE_MAKER] : Initialized
+07/04/2023 23:59:22 
+	[LOG] @[VIDEO_SUBTITLE_MAKER] : Initialized
+07/04/2023 23:59:22 
+	[ERROR] @[VIDEO_SUBTITLE_MAKER] : Failed to add video path
+	'charmap' codec can't encode characters in position 135-138: character maps to <undefined>
+07/04/2023 23:59:22 
+	[LOG] @[VIDEO_SUBTITLE_MAKER] : Instance destoyed.
+07/04/2023 23:59:27 
+	[LOG] @[VIDEO_SUBTITLE_MAKER] : Initialized
+07/04/2023 23:59:27 
+	[ERROR] @[VIDEO_SUBTITLE_MAKER] : Failed to add video path
+	'charmap' codec can't encode characters in position 135-138: character maps to <undefined>
+08/04/2023 00:01:08 
+	[LOG] @[VIDEO_SUBTITLE_MAKER] : Initialized
+08/04/2023 00:01:08 
+	[ERROR] @[VIDEO_SUBTITLE_MAKER] : Failed to add video path
+	'charmap' codec can't encode characters in position 135-138: character maps to <undefined>
+08/04/2023 00:01:08 
+	[LOG] @[VIDEO_SUBTITLE_MAKER] : Instance destoyed.
+08/04/2023 00:01:09 
+	[LOG] @[VIDEO_SUBTITLE_MAKER] : Initialized
+08/04/2023 00:01:09 
+	[ERROR] @[VIDEO_SUBTITLE_MAKER] : Failed to add video path
+	'charmap' codec can't encode characters in position 135-138: character maps to <undefined>
+08/04/2023 00:01:09 
+	[LOG] @[VIDEO_SUBTITLE_MAKER] : Instance destoyed.
+08/04/2023 00:01:13 
+	[LOG] @[VIDEO_SUBTITLE_MAKER] : Initialized
+08/04/2023 00:01:13 
+	[LOG] @[VIDEO_SUBTITLE_MAKER] : Video Path added'C:/Users/91911/Documents/JDownloader/XG - MASCARA (Choreography) (2160p_24fps_AV1-128kbit_AAC).mp4'
+08/04/2023 00:01:44 
+	[LOG] @[VIDEO_SUBTITLE_MAKER] : Initialized
+08/04/2023 00:01:44 
+	[ERROR] @[VIDEO_SUBTITLE_MAKER] : Failed to add video path
+	'charmap' codec can't encode characters in position 132-136: character maps to <undefined>
+08/04/2023 00:01:44 
+	[LOG] @[VIDEO_SUBTITLE_MAKER] : Instance destoyed.
+08/04/2023 00:01:49 
+	[LOG] @[VIDEO_SUBTITLE_MAKER] : Initialized
+08/04/2023 00:01:49 
+	[LOG] @[VIDEO_SUBTITLE_MAKER] : Instance destoyed.
+08/04/2023 00:01:50 
+	[LOG] @[VIDEO_SUBTITLE_MAKER] : Initialized
+08/04/2023 00:01:50 
+	[LOG] @[VIDEO_SUBTITLE_MAKER] : Instance destoyed.
+08/04/2023 00:06:23 
+	[LOG] @[VIDEO_SUBTITLE_MAKER] : Initialized
+08/04/2023 00:06:23 
+	[LOG] @[VIDEO_SUBTITLE_MAKER] : Instance destoyed.
+08/04/2023 00:07:20 
+	[LOG] @[VIDEO_SUBTITLE_MAKER] : Initialized
+08/04/2023 00:07:20 
+	[LOG] @[VIDEO_SUBTITLE_MAKER] : Instance destoyed.
+08/04/2023 00:11:19 
+	[LOG] @[VIDEO_SUBTITLE_MAKER] : Initialized
+08/04/2023 00:11:19 
+	[LOG] @[VIDEO_SUBTITLE_MAKER] : Video Path added'C:/Users/91911/Documents/JDownloader/XG - MASCARA (Choreography) (2160p_24fps_AV1-128kbit_AAC).mp4'
+08/04/2023 00:13:41 
+	[LOG] @[VIDEO_SUBTITLE_MAKER] : Initialized
+08/04/2023 00:13:41 
+	[ERROR] @[VIDEO_SUBTITLE_MAKER] : Failed to add video path
+	'charmap' codec can't encode characters in position 119-123: character maps to <undefined>
+08/04/2023 00:13:41 
+	[LOG] @[VIDEO_SUBTITLE_MAKER] : Instance destoyed.
+08/04/2023 00:13:45 
+	[LOG] @[VIDEO_SUBTITLE_MAKER] : Initialized
+08/04/2023 00:13:45 
+	[LOG] @[VIDEO_SUBTITLE_MAKER] : Video Path added'C:/Users/91911/Documents/JDownloader/David Guetta & Bebe Rexha - I'm Good (Blue) [Official Music Video] (2160p_25fps_AV1-128kbit_AAC).mp4'
+08/04/2023 00:14:37 
+	[LOG] @[VIDEO_SUBTITLE_MAKER] : Initialized
+08/04/2023 00:14:37 
+	[LOG] @[VIDEO_SUBTITLE_MAKER] : Video Path added'C:/Users/91911/Documents/JDownloader/David Guetta & Bebe Rexha - I'm Good (Blue) [Official Music Video] (2160p_25fps_AV1-128kbit_AAC).mp4'
+08/04/2023 00:22:29 
+	[LOG] @[VIDEO_SUBTITLE_MAKER] : Initialized
+08/04/2023 00:22:29 
+	[LOG] @[VIDEO_SUBTITLE_MAKER] : Instance destoyed.
+08/04/2023 00:23:03 
+	[LOG] @[VIDEO_SUBTITLE_MAKER] : Initialized
+08/04/2023 00:23:03 
+	[LOG] @[VIDEO_SUBTITLE_MAKER] : Instance destoyed.
+08/04/2023 00:23:52 
+	[LOG] @[VIDEO_SUBTITLE_MAKER] : Initialized
+08/04/2023 00:23:52 
+	[LOG] @[VIDEO_SUBTITLE_MAKER] : Instance destoyed.
+08/04/2023 00:28:05 
+	[LOG] @[VIDEO_SUBTITLE_MAKER] : Initialized
+08/04/2023 00:28:05 
+	[LOG] @[VIDEO_SUBTITLE_MAKER] : Instance destoyed.
+08/04/2023 00:28:12 
+	[LOG] @[VIDEO_SUBTITLE_MAKER] : Initialized
+08/04/2023 00:28:12 
+	[LOG] @[VIDEO_SUBTITLE_MAKER] : Video Path added'C:/Users/91911/Documents/JDownloader/David Guetta & Bebe Rexha - I'm Good (Blue) [Official Music Video] (2160p_25fps_AV1-128kbit_AAC).mp4'
+08/04/2023 00:28:27 
+	[LOG] @[VIDEO_SUBTITLE_MAKER] : Initialized
+08/04/2023 00:28:27 
+	[LOG] @[VIDEO_SUBTITLE_MAKER] : Instance destoyed.
+08/04/2023 00:28:42 
+	[LOG] @[VIDEO_SUBTITLE_MAKER] : Initialized
+08/04/2023 00:28:42 
+	[LOG] @[VIDEO_SUBTITLE_MAKER] : Video Path added'C:/Users/91911/Documents/JDownloader/LISA - 'LALISA' M_V (2160p_24fps_AV1-128kbit_AAC).mp4'
+08/04/2023 00:32:37 
+	[LOG] @[VIDEO_SUBTITLE_MAKER] : Initialized
+08/04/2023 00:32:37 
+	[LOG] @[VIDEO_SUBTITLE_MAKER] : Instance destoyed.
+08/04/2023 00:40:05 
+	[LOG] @[VIDEO_SUBTITLE_MAKER] : Initialized
+08/04/2023 00:40:07 
+	[LOG] @[VIDEO_SUBTITLE_MAKER] : Instance destoyed.
+08/04/2023 00:40:31 
+	[LOG] @[VIDEO_SUBTITLE_MAKER] : Initialized
+08/04/2023 00:40:58 
+	[LOG] @[VIDEO_SUBTITLE_MAKER] : Video Path added'C:/Users/91911/Documents/JDownloader/BLACKPINK - ‘Pink Venom’ M_V (2160p_24fps_AV1-128kbit_AAC).mp4'
