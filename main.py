@@ -7,17 +7,20 @@ from utils import openLogs, OpenFile
 
 class MAIN:
     def __init__(self):
+        print("You can pass '--debug' while running the script to see all the info.")
         self.VIDEO_SUBTITLE_MKR = VIDEO_SUBTITLE_MAKER()
         self.root = tkinter.Tk()
         self.root.title('Video Subtitle Maker')
         self.root.resizable(True, True)
         self.root.geometry('1280x720')
-        menu = Menu(self.root)
+        menu = Menu(self.root, tearoff="off")
         self.root.config(menu=menu)
-        fileMenu = Menu(menu)
-        fileMenu.add_command(label="View Logs", command=openLogs)
+        fileMenu = Menu(menu, tearoff="off")
+        LogMenu = Menu(menu, tearoff="off")
+        LogMenu.add_command(label="View Logs", command=openLogs)
         fileMenu.add_command(label="Exit", command=self.kill)
         menu.add_cascade(label="File", menu=fileMenu)
+        menu.add_cascade(label="Log", menu=LogMenu)
         link = Label(self.root, text="GitHub Repo", font=(
             'Helveticabold', 15), fg="blue", cursor="hand2")
         link.pack()
