@@ -1,7 +1,12 @@
-from .GLOBAL_VARIABLES import VIDEO_PROCESSOR_GLOBAL_VARIABLES_CLASS
-from .Ffmpeg import FFMPEG_HANDLER
-from .Logger import Logger
+from colorama import Fore, Style
 from os.path import exists, isdir
+from os import makedirs, getcwd
+from sys import exit
+from shutil import rmtree
+from Class.GLOBAL_VARIABLES import VIDEO_PROCESSOR_GLOBAL_VARIABLES_CLASS
+from Class.Ffmpeg import FFMPEG_HANDLER
+from Class.Logger import Logger
+from Constants import VIDEO_PATH_KEY, TEMP_DIR_NAME
 
 
 class VIDEO_SUBTITLE_MAKER:
@@ -20,21 +25,42 @@ class VIDEO_SUBTITLE_MAKER:
         try:
             if (exists(video_path)):
                 self.GLOBAL_VARIABLES.create(
-                    "VIDEO_PATH", video_path)
+                    VIDEO_PATH_KEY, video_path)
                 self.Logger.log("Video Path added" + "'" + video_path + "'")
                 return True
             else:
                 return False
         except Exception as e:
-            self.Logger.error("Failed to add video path\n"+e)
+            self.Logger.error("Failed to add video path\n\t"+str(e))
             pass
 
     def generate_required_files(self):
+        self.FFMPEG_HANDLER.update_path(
+            self.GLOBAL_VARIABLES.use(VIDEO_PATH_KEY)).extract_audio()
         return self
 
     def prepare(self):
-        print(isdir("temp"))
+        try:
+            if not isdir(TEMP_DIR_NAME):
+                self.__create_temp_dir()
+            else:
+                self.__remove_temp_dir()
+                self.__create_temp_dir()
+            return self
+        except Exception as e:
+            self.Logger.error("Failed to prepare\n\t"+str(e))
+            print(
+                Fore.RED + "Failed to modify directories. \n[Hint] : Please check permissions given to program to access and modify files on the system and try again." + Style.RESET_ALL)
+            exit()
+            pass
 
     def destoy(self):
+        self.__remove_temp_dir()
         self.Logger.log("Instance destoyed.")
         del self
+
+    def __create_temp_dir(self):
+        makedirs(getcwd() + "/temp")
+
+    def __remove_temp_dir(self):
+        rmtree(getcwd() + "/temp")

@@ -22,3 +22,122 @@
 	[LOG] @[VIDEO_SUBTITLE_MAKER] : Initialized
 07/04/2023 23:04:26 
 	[LOG] @[VIDEO_SUBTITLE_MAKER] : Video Path added'C:/Users/91911/Documents/JDownloader/Miley Cyrus - Flowers (Official Video) (1406p_24fps_AV1-128kbit_AAC).mp4'
+07/04/2023 23:19:33 
+	[LOG] @[VIDEO_SUBTITLE_MAKER] : Initialized
+07/04/2023 23:19:35 
+	[LOG] @[VIDEO_SUBTITLE_MAKER] : Video Path added'C:/Users/91911/Documents/JDownloader/Miley Cyrus - Flowers (Official Video) (1406p_24fps_AV1-128kbit_AAC).mp4'
+07/04/2023 23:21:52 
+	[LOG] @[VIDEO_SUBTITLE_MAKER] : Initialized
+07/04/2023 23:21:57 
+	[LOG] @[VIDEO_SUBTITLE_MAKER] : Video Path added'C:/Users/91911/Documents/JDownloader/Miley Cyrus - Flowers (Official Video) (1406p_24fps_AV1-128kbit_AAC).mp4'
+07/04/2023 23:23:58 
+	[LOG] @[VIDEO_SUBTITLE_MAKER] : Initialized
+07/04/2023 23:24:09 
+	[LOG] @[VIDEO_SUBTITLE_MAKER] : Video Path added'C:/Users/91911/Documents/JDownloader/Miley Cyrus - Flowers (Official Video) (1406p_24fps_AV1-128kbit_AAC).mp4'
+07/04/2023 23:24:24 
+	[LOG] @[VIDEO_SUBTITLE_MAKER] : Initialized
+07/04/2023 23:24:25 
+	[LOG] @[VIDEO_SUBTITLE_MAKER] : Video Path added'C:/Users/91911/Documents/JDownloader/Miley Cyrus - Flowers (Official Video) (1406p_24fps_AV1-128kbit_AAC).mp4'
+07/04/2023 23:25:27 
+	[LOG] @[VIDEO_SUBTITLE_MAKER] : Initialized
+07/04/2023 23:25:30 
+	[LOG] @[VIDEO_SUBTITLE_MAKER] : Video Path added'C:/Users/91911/Documents/JDownloader/Miley Cyrus - Flowers (Official Video) (1406p_24fps_AV1-128kbit_AAC).mp4'
+07/04/2023 23:31:36 
+	[LOG] @[VIDEO_SUBTITLE_MAKER] : Initialized
+07/04/2023 23:31:49 
+	[LOG] @[VIDEO_SUBTITLE_MAKER] : Instance destoyed.
+07/04/2023 23:31:49 
+	[LOG] @[VIDEO_SUBTITLE_MAKER] : Initialized
+07/04/2023 23:32:02 
+	[LOG] @[VIDEO_SUBTITLE_MAKER] : Video Path added'C:/Users/91911/Documents/JDownloader/Miley Cyrus - Flowers (Official Video) (1406p_24fps_AV1-128kbit_AAC).mp4'
+07/04/2023 23:33:09 
+	[LOG] @[VIDEO_SUBTITLE_MAKER] : Initialized
+07/04/2023 23:33:12 
+	[LOG] @[VIDEO_SUBTITLE_MAKER] : Instance destoyed.
+07/04/2023 23:33:12 
+	[LOG] @[VIDEO_SUBTITLE_MAKER] : Initialized
+07/04/2023 23:33:17 
+	[LOG] @[VIDEO_SUBTITLE_MAKER] : Video Path added'C:/Users/91911/Documents/JDownloader/Miley Cyrus - Flowers (Official Video) (1406p_24fps_AV1-128kbit_AAC).mp4'
+07/04/2023 23:33:49 
+	[LOG] @[VIDEO_SUBTITLE_MAKER] : Initialized
+07/04/2023 23:33:50 
+	[LOG] @[VIDEO_SUBTITLE_MAKER] : Video Path added'C:/Users/91911/Documents/JDownloader/Miley Cyrus - Flowers (Official Video) (1406p_24fps_AV1-128kbit_AAC).mp4'
+07/04/2023 23:34:04 
+	[LOG] @[VIDEO_SUBTITLE_MAKER] : Initialized
+07/04/2023 23:34:05 
+	[LOG] @[VIDEO_SUBTITLE_MAKER] : Video Path added'C:/Users/91911/Documents/JDownloader/Miley Cyrus - Flowers (Official Video) (1406p_24fps_AV1-128kbit_AAC).mp4'
+07/04/2023 23:36:28 
+	[LOG] @[VIDEO_SUBTITLE_MAKER] : Initialized
+07/04/2023 23:36:30 
+	[LOG] @[VIDEO_SUBTITLE_MAKER] : Video Path added'C:/Users/91911/Documents/JDownloader/Miley Cyrus - Flowers (Official Video) (1406p_24fps_AV1-128kbit_AAC).mp4'
+07/04/2023 23:37:33 
+	[LOG] @[VIDEO_SUBTITLE_MAKER] : Initialized
+07/04/2023 23:37:36 
+	[LOG] @[VIDEO_SUBTITLE_MAKER] : Video Path added'C:/Users/91911/Documents/JDownloader/Miley Cyrus - Flowers (Official Video) (1406p_24fps_AV1-128kbit_AAC).mp4'
+07/04/2023 23:38:50 
+	[LOG] @[VIDEO_SUBTITLE_MAKER] : Initialized
+07/04/2023 23:38:52 
+	[LOG] @[VIDEO_SUBTITLE_MAKER] : Video Path added'C:/Users/91911/Documents/JDownloader/Miley Cyrus - Flowers (Official Video) (1406p_24fps_AV1-128kbit_AAC).mp4'
+07/04/2023 23:39:04 
+	[LOG] @[VIDEO_SUBTITLE_MAKER] : Initialized
+07/04/2023 23:39:05 
+	[LOG] @[VIDEO_SUBTITLE_MAKER] : Video Path added'C:/Users/91911/Documents/JDownloader/Miley Cyrus - Flowers (Official Video) (1406p_24fps_AV1-128kbit_AAC).mp4'
+07/04/2023 23:39:15 
+	[LOG] @[VIDEO_SUBTITLE_MAKER] : Initialized
+07/04/2023 23:39:17 
+	[LOG] @[VIDEO_SUBTITLE_MAKER] : Video Path added'C:/Users/91911/Documents/JDownloader/Miley Cyrus - Flowers (Official Video) (1406p_24fps_AV1-128kbit_AAC).mp4'
+07/04/2023 23:43:23 
+	[LOG] @[VIDEO_SUBTITLE_MAKER] : Initialized
+07/04/2023 23:43:24 
+	[LOG] @[VIDEO_SUBTITLE_MAKER] : Instance destoyed.
+07/04/2023 23:43:24 
+	[LOG] @[VIDEO_SUBTITLE_MAKER] : Initialized
+07/04/2023 23:43:32 
+	[LOG] @[VIDEO_SUBTITLE_MAKER] : Video Path added'C:/Users/91911/Documents/JDownloader/Miley Cyrus - Flowers (Official Video) (1406p_24fps_AV1-128kbit_AAC).mp4'
+07/04/2023 23:43:34 
+	[LOG] @[VIDEO_SUBTITLE_MAKER] : Initialized
+07/04/2023 23:43:35 
+	[LOG] @[VIDEO_SUBTITLE_MAKER] : Video Path added'C:/Users/91911/Documents/JDownloader/Miley Cyrus - Flowers (Official Video) (1406p_24fps_AV1-128kbit_AAC).mp4'
+07/04/2023 23:44:45 
+	[LOG] @[VIDEO_SUBTITLE_MAKER] : Initialized
+07/04/2023 23:44:46 
+	[LOG] @[VIDEO_SUBTITLE_MAKER] : Instance destoyed.
+07/04/2023 23:44:46 
+	[LOG] @[VIDEO_SUBTITLE_MAKER] : Initialized
+07/04/2023 23:44:58 
+	[LOG] @[VIDEO_SUBTITLE_MAKER] : Video Path added'C:/Users/91911/Documents/JDownloader/Miley Cyrus - Flowers (Official Video) (1406p_24fps_AV1-128kbit_AAC).mp4'
+07/04/2023 23:45:17 
+	[LOG] @[VIDEO_SUBTITLE_MAKER] : Initialized
+07/04/2023 23:45:19 
+	[LOG] @[VIDEO_SUBTITLE_MAKER] : Video Path added'C:/Users/91911/Documents/JDownloader/Miley Cyrus - Flowers (Official Video) (1406p_24fps_AV1-128kbit_AAC).mp4'
+07/04/2023 23:45:19 
+	[ERROR] @[VIDEO_SUBTITLE_MAKER] : Failed to prepare
+LOLLL
+07/04/2023 23:46:07 
+	[LOG] @[VIDEO_SUBTITLE_MAKER] : Initialized
+07/04/2023 23:46:08 
+	[LOG] @[VIDEO_SUBTITLE_MAKER] : Video Path added'C:/Users/91911/Documents/JDownloader/Miley Cyrus - Flowers (Official Video) (1406p_24fps_AV1-128kbit_AAC).mp4'
+07/04/2023 23:46:08 
+	[ERROR] @[VIDEO_SUBTITLE_MAKER] : Failed to prepare
+	LOLLL
+07/04/2023 23:46:23 
+	[LOG] @[VIDEO_SUBTITLE_MAKER] : Initialized
+07/04/2023 23:46:24 
+	[LOG] @[VIDEO_SUBTITLE_MAKER] : Video Path added'C:/Users/91911/Documents/JDownloader/Miley Cyrus - Flowers (Official Video) (1406p_24fps_AV1-128kbit_AAC).mp4'
+07/04/2023 23:46:24 
+	[ERROR] @[VIDEO_SUBTITLE_MAKER] : Failed to prepare
+	LOLLL
+07/04/2023 23:47:29 
+	[LOG] @[VIDEO_SUBTITLE_MAKER] : Initialized
+07/04/2023 23:47:30 
+	[LOG] @[VIDEO_SUBTITLE_MAKER] : Video Path added'C:/Users/91911/Documents/JDownloader/Miley Cyrus - Flowers (Official Video) (1406p_24fps_AV1-128kbit_AAC).mp4'
+07/04/2023 23:47:30 
+	[ERROR] @[VIDEO_SUBTITLE_MAKER] : Failed to prepare
+	LOLLL
+07/04/2023 23:47:44 
+	[LOG] @[VIDEO_SUBTITLE_MAKER] : Initialized
+07/04/2023 23:47:45 
+	[LOG] @[VIDEO_SUBTITLE_MAKER] : Video Path added'C:/Users/91911/Documents/JDownloader/Miley Cyrus - Flowers (Official Video) (1406p_24fps_AV1-128kbit_AAC).mp4'
+07/04/2023 23:47:45 
+	[ERROR] @[VIDEO_SUBTITLE_MAKER] : Failed to prepare
+	LOLLL
