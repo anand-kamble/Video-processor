@@ -3,6 +3,8 @@ import tkinter
 from tkinter import filedialog, Menu, Text, END, Label
 from tkinter.messagebox import showinfo
 from utils import openLogs, OpenFile
+from Constants import TEMP_AUDIO_FILE_NAME, TEMP_DIR_NAME
+from os import getcwd
 
 
 class MAIN:
@@ -48,7 +50,8 @@ class MAIN:
             self.VIDEO_SUBTITLE_MKR.prepare().generate_required_files()
             showinfo(
                 title='Conversion Completed.',
-                message="File saved to " + video_path
+                message="File saved to " + getcwd()+"\\" + TEMP_DIR_NAME +
+                '\\'+TEMP_AUDIO_FILE_NAME
             )
             self.root.destroy()
         else:
