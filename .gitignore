@@ -2,8 +2,9 @@
 node_modules
 dist
 
-# Temp Files
+# Temp and log Files
 temp
+logs.txt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
