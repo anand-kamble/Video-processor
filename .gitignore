@@ -3,6 +3,7 @@ node_modules
 dist
 
 # Temp Files
+temp
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
