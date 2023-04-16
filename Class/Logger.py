@@ -7,6 +7,7 @@ class Logger:
     def __init__(self, scope: str, ):
         self.scope = scope or ""
         self.debugMode = "--debug" in sys.argv
+        self.logFileName = "logs.txt"
         pass
 
     def log(self, msg: str):
@@ -28,7 +29,12 @@ class Logger:
         print(Fore.RED + logString + Style.RESET_ALL) if self.debugMode else 0
 
     def __log(self, msg: str):
-        file1 = open("logs.txt", "a")
-        file1.write(msg+'\n')
-        file1.close()
-        pass
+        try:
+            file1 = open(self.logFileName, "a")
+            file1.write(msg+'\n')
+            file1.close()
+            pass
+        except Exception as e:
+            print(Fore.RED + "Failed to write logs to " +
+                  self.logFileName + "\n" + str(e) + Style.RESET_ALL)
+            pass

@@ -25,3 +25,7 @@
 	[LOG] @[VIDEO_SUBTITLE_MAKER] : Initialized
 08/04/2023 00:54:58 
 	[LOG] @[VIDEO_SUBTITLE_MAKER] : Video Path added'C:/Users/91911/Documents/JDownloader/David Guetta & Bebe Rexha - I'm Good (Blue) [Official Music Video] (2160p_25fps_AV1-128kbit_AAC).mp4'
+16/04/2023 22:45:26 
+	[LOG] @[VIDEO_SUBTITLE_MAKER] : Initialized
+16/04/2023 22:45:33 
+	[LOG] @[VIDEO_SUBTITLE_MAKER] : Video Path added'C:/Users/91911/Documents/JDownloader/[XG TAPE #2] GALZ XYPHER (COCONA, MAYA, HARVEY, JURIN) (2160p_24fps_AV1-128kbit_AAC).mp4'
