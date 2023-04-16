@@ -4,7 +4,7 @@ dist
 
 # Temp and log Files
 temp
-logs.txt
+/logs.txt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
